@@ -4,10 +4,10 @@ The user playing with the website has 6 sounds to play with. Within the sounds t
 ## JS Drag and Drop
 In this project, we mainly used functions that makes the Drag and Drop work! 
 
-## language used
-css
-html
-js
+## Language used
+CSS
+HTML
+JS
 
 ## Credit
 Mohamed Zarandah, 
