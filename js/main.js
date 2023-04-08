@@ -1,5 +1,4 @@
-
-(() => {
+(()=> {
 	// collect ALL of the elements that we want the user to interact with and also elements that to change
 	// JS holds these in memory so that it can access them later (these are elements in the HTML)
 	let soundPieces = document.querySelectorAll('.sound-pieces img'),
