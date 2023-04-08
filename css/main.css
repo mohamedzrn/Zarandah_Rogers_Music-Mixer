@@ -142,7 +142,7 @@ a:hover{
   }
 
 .button:focus {
-    box-shadow: black;
+    box-shadow: 5px 5px 2px rgba(255, 255, 255, 0.5);
 }
 
 .button:hover {
@@ -150,7 +150,7 @@ a:hover{
 }
 
 .button:active {
-    box-shadow: black;
+    box-shadow: 5px 5px 2px rgba(255, 255, 255, 0.5);
     transform: translateY(2px);
 }
 .sound-pieces{
